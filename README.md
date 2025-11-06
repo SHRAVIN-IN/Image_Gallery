@@ -284,6 +284,7 @@ h3{
 ![alt text](shravin/imageapp/static/BMW.jpg)
 ![alt text](shravin/imageapp/static/Ferrari.jpg)
 ![alt text](shravin/imageapp/static/mclaren.jpg)
+![alt text](shravin/imageapp/static/output.jpg)
 
 
 ## RESULT
